@@ -1,0 +1,1 @@
+This directory contains a evidence collection methodology which was originally developed by Ricard Martinez to be used inside funded projects in order to ensure ethics auditability of projects. This can be used particularly by coordinators of projects with a large number of subprojects to be managed.

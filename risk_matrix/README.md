@@ -1,0 +1,1 @@
+This folder contains a simple risk management system that can be used and adapted to continuously monitor ethics related incidents and risks that occur during a funded project. The goal is to keep all risks on an acceptble level through adaquate mitigation.
