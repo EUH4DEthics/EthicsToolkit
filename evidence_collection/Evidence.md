@@ -129,11 +129,9 @@ responsibility towards the purpose**
 
 The description of experiment submitted in the grant application is:
 
-[ ] Appropriate
-
-[ ] Must be reviewed and documented again
-
-[ ] It has been revised and re-documented
+- [ ] Appropriate
+- [ ] Must be reviewed and documented again
+- [ ] It has been revised and re-documented
 
 It covers a data set use and data set creation: Yes [ ] No [ ]
 
@@ -143,52 +141,63 @@ It covers a data set use and data set creation: Yes [ ] No [ ]
 
 Documentation related to the experiment design is:
 
-[ ] Appropriate
-
-[ ] Must be reviewed and documented again
-
-[ ] It has been revised and re-documented
+- [ ] Appropriate
+- [ ] Must be reviewed and documented again
+- [ ] It has been revised and re-documented
 
 It has a retrospective phase and a prospective phase: Yes [ ] No [ ]
 
 Do you have documentary evidence?
 
-[ ] Yes [ ] No [ ] In process [ ] Does not apply
+- [ ] Yes 
+- [ ] No 
+- [ ] In process
+- [ ] Does not apply
 
 **2.2. Data Mangement plan**
 
 The data management plan is:
 
-[ ] Appropriate
-
-[ ] Must be reviewed and documented again
-
-[ ] It has been revised and re-documented
+- [ ] Appropriate
+- [ ] Must be reviewed and documented again
+- [ ] It has been revised and re-documented
 
 It has a retrospective phase and a prospective phase: Yes [ ] No [ ]
 
 Do you have documentary evidence?
 
-[ ] Yes [ ] No [ ] In process [ ] Does not apply
+- [ ] Yes 
+- [ ] No 
+- [ ] In process 
+- [ ] Does not apply
 
 **2.3. Ethics Committee approval document**
 
 Has the research been approved by the competent Ethics Committee?
 
-[ ] Yes [ ] No [ ] In process [ ] Does not apply
+- [ ] Yes 
+- [ ] No
+- [ ] In process 
+- [ ] Does not apply
 
 **2.4. Document/letter/informed consent form**
 
 Do you have an informed consent document?
 
-[ ] Yes [ ] No [ ] In process [ ] Does not apply
+- [ ] Yes
+- [ ] No
+- [ ] In process
+- [ ] Does not apply
 
 **2.5. Ethical impact assessment in Artificial Intelligence**
 
 Do you have a positive Artificial Intelligence ethical impact
 assessment?
 
-[ ] Yes [ ] No [ ] In process [ ] Does not apply
+- [ ] Yes
+- [ ] No
+- [ ] In process
+- [ ] Does not apply
 
 **3.- Evidences related to compliance with the General Data Protection
 Regulation**
@@ -198,11 +207,9 @@ Regulation**
 The description of the processes in your research pilot in the Project
 submitted in the grant application is:
 
-[ ] Appropriate
-
-[ ] Must be reviewed and documented again
-
-[ ] It has been revised and re-documented
+- [ ] Appropriate
+- [ ] Must be reviewed and documented again
+- [ ] It has been revised and re-documented
 
 It has a retrospective phase and a prospective phase: Yes [ ] No [ ]
 
@@ -212,56 +219,63 @@ the parties**
 Have you adequately identified the role you play in the processing of
 the data under investigation?
 
-[ ] Yes [ ] No [ ] In process [ ] Does not apply
+- [ ] Yes
+- [ ] No
+- [ ] In process
+- [ ] Does not apply
 
 Have you formalized any of the following contracts?
 
-[ ] Data processor
+- [ ] Data processor
+- [ ] Data controller
+- [ ] Data sharing agreement
 
-[ ] Data controller
-
-[ ] Data sharing agreement
-
-[ ] Yes [ ] No [ ] In process [ ] Does not apply
+- [ ] Yes
+- [ ] No
+- [ ] In process
+- [ ] Does not apply
 
 Do you have documentary evidence?
 
-[ ] Yes [ ] No [ ] In process [ ] Does not apply
+- [ ] Yes 
+- [ ] No 
+- [ ] In process
+- [ ] Does not apply
 
 **3.3. Risk analysis and data protection by design and by default**
 
 According to the specific conditions of the processing, please indicate
 whether you have done any of the following actions:
 
-[ ] Rights risk analysis
-
-[ ] Security risk analysis
-
-[ ] Data protection impact assessment
-
-[ ] Design of processing, applications, APPS, APIS applying data
+- [ ] Rights risk analysis
+- [ ] Security risk analysis
+- [ ] Data protection impact assessment
+- [ ] Design of processing, applications, APPS, APIS applying data
 protection by design and by default
-
-[ ] Does not apply
+- [ ] Does not apply
 
 Do you have documentary evidence?
 
-[ ] Yes [ ] No [ ] In process [ ] Does not apply
+- [ ] Yes
+- [ ] No
+- [ ] In process
+- [ ] Does not apply
 
 **3.4. Security measures implemented**
 
 If, according to your task, you are responsible for implementing
 security measures in the processing, please indicate whether:
 
-[ ] Based on a standard (please specify)
-
-[ ] These are those specific to the National Security Scheme
-
-[ ] These are measures specifically designed for the processing
+- [ ] Based on a standard (please specify)
+- [ ] These are those specific to the National Security Scheme
+- [ ] These are measures specifically designed for the processing
 
 Do you have documentary evidence?
 
-[ ] Yes [ ] No [ ] In process [ ] Does not apply
+- [ ] Yes
+- [ ] No
+- [ ] In process
+- [ ] Does not apply
 
 **3.5. Anonymisation or pseudonymisation techniques used**
 
@@ -271,82 +285,70 @@ provision on the processing of health data of Organic Law 3/2018, of 5
 December, on the Protection of Personal Data and Guarantee of Digital
 Rights (LOPDGDD):
 
-[ ] Technical and functional separation between the research team and
-those performing the pseudonymisation and retaining the information
-enabling re-identification
-
-[ ] Express commitment to confidentiality and not to engage in any
-re-identification activity
-
-[ ] Specific security measures to prevent re-identification and access by
-unauthorised third parties
-
-[ ] Re-identification procedure when there is a real and concrete danger
-to the safety or health of a person or group of persons, or a serious
-threat to their rights, or it is necessary to ensure adequate health
-care
-
-[ ] Guarantees of the exercise of rights of access, rectification,
-erasure, portability, limitation or opposition to processing, as well as
-revocation of consent
+- [ ] Technical and functional separation between the research team and those performing the pseudonymisation and retaining the information enabling re-identification
+- [ ] Express commitment to confidentiality and not to engage in any re-identification activity
+- [ ] Specific security measures to prevent re-identification and access by unauthorised third parties
+- [ ] Re-identification procedure when there is a real and concrete danger to the safety or health of a person or group of persons, or a serious threat to their rights, or it is necessary to ensure adequate health care
+- [ ] Guarantees of the exercise of rights of access, rectification, erasure, portability, limitation or opposition to processing, as well as revocation of consent
 
 Do you have documentary evidence?
 
-[ ] Yes [ ] No [ ] In process [ ] Does not apply
+- [ ] Yes
+- [ ] No 
+- [ ] In process
+- [ ] Does not apply
 
 Have you anonymised personal data?
 
-Yes [ ] No [ ]
+- Yes [ ]
+- No [ ]
 
 If yes, please indicate whether:
 
-[ ] You have followed the recommendations of the data protection
-authorities
-
-[ ] You have carried out a risk analysis
-
-[ ] You have used or combined more than one anonymisation technique
-
-[ ] You have employed double-anonymisation strategies
-
-[ ] You have subjected the finally anonymised data to some additional risk
+- [ ] You have followed the recommendations of the data protection authorities
+- [ ] You have carried out a risk analysis
+- [ ] You have used or combined more than one anonymisation technique
+- [ ] You have employed double-anonymisation strategies
+- [ ] You have subjected the finally anonymised data to some additional risk
 verification
 
 Do you have documentary evidence?
 
-[ ] Yes [ ] No [ ] In process [ ] Does not apply
+- [ ] Yes 
+- [ ] No 
+- [ ] In process 
+- [ ] Does not apply
 
 **3.6. Specific compliance with the principle of transparency in data
 protection**
 
 Indicate whether:
 
-[ ] Fair, legitimate and lawful data processing is guaranteed
-
-[ ] The duty of transparency in relation to the subjects of the study is
-guaranteed
-
-[ ] Does not apply
+- [ ] Fair, legitimate and lawful data processing is guaranteed
+- [ ] The duty of transparency in relation to the subjects of the study is guaranteed
+- [ ] Does not apply
 
 Do you have documentary evidence?
 
-[ ] Yes [ ] No [ ] In process [ ] Does not apply
+- [ ] Yes 
+- [ ] No 
+- [ ] In process 
+- [ ] Does not apply
 
 **3.7. Record of processing activities**
 
 In case of processing of personal data, please indicate whether:
 
-[ ] It is incorporated into a previously authorized processing operation
-and recorded in the record of processing activities
-
-[ ] It is a specific processing operation duly authorized and recorded in
-the record of processing activities
-
-[ ] Does not apply
+- [ ] It is incorporated into a previously authorized processing operation and recorded in the record of processing activities
+- [ ] It is a specific processing operation duly authorized and recorded in the record of processing activities
+- [ ] Does not apply
 
 Do you have documentary evidence?
 
-[ ] Yes [ ] No [ ] In process [ ] Does not apply
+- [ ] Yes 
+- [ ] No 
+- [ ] In process 
+- [ ] Does not apply
 
 | Evidence summary |
 |------------------|
